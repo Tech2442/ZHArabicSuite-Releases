@@ -48,4 +48,4 @@
 
 ## 📞 Community & Official Channels
 - 📺 **Official YouTube Channel:** [Tech2442 on YouTube](https://www.youtube.com/tech2442)
-- ✈️ **Official Telegram Channel:** [Tech2442 on Telegram](https://t.me/Tech2442)
+- ✈️ **Official Telegram Channel:** [Tech2442 on Telegram](https://t.me/+F5ezKUYFAARjNmNk)
