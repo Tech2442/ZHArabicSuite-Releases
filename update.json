@@ -1,6 +1,6 @@
-﻿{
-    "version":  "1.0.1",
-    "url":  "https://github.com/mido4321/ZHArabicSuite-Releases/releases/download/v1.0.1/ZHArabicSuite_Setup_v1.0.1.exe",
-    "sha256":  "33219E8329E231109285549C99943A6144F210424D958E27AB4DA9901E772F78",
-    "notes":  "الإصدار 1.0.1:\n• واجهة الدردشة الحديثة داخل اللعبة مع ميزة التحدث المباشر بالمايك (Push-to-Talk).\n• الضبط التلقائي لدقة الشاشة ووضع النافذة بدون إطار (Borderless).\n• الترجمة الفورية التلقائية لكافة اللغات والردود العسكرية والإيموجي التكتيكي.\n• الدبلجة الصوتية الشاملة لكافة الجيوش وحماية تامة ضد أخطاء الميس ماتش أونلاين."
+{
+    "version": "1.0.1",
+    "url": "https://github.com/mido4321/ZHArabicSuite-Releases/releases/download/v1.0.1/ZHArabicSuite_Setup_v1.0.1.exe",
+    "sha256": "33219E8329E231109285549C99943A6144F210424D958E27AB4DA9901E772F78",
+    "notes": "Version 1.0.1:\n• Modern In-Game Chat Interface with live Push-to-Talk Voice Typing.\n• Instant AI Translation supporting world languages, quick tactical phrases, and emoticons.\n• Full Generals Online integration and Smart Health Diagnostics to prevent online mismatch errors.\n• Note: The attached voice package (PackageData.enc) contains Arabic audio dubbing intended only for Arab users. It is independent of the program, and you can use ZH Arabic Suite without it."
 }
