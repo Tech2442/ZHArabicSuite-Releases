@@ -8,6 +8,8 @@
 
 The all-in-one tactical launcher, in-game chat suite, diagnostics center, and localization platform for **Command & Conquer: Generals – Zero Hour**, engineered for seamless compatibility with **Generals Online**.
 
+![ZH Arabic Suite Preview](2026-11-09_16-31-04.png)
+
 ---
 
 ## 🚀 Quick Download & Installation
@@ -18,7 +20,7 @@ The all-in-one tactical launcher, in-game chat suite, diagnostics center, and lo
 > [!IMPORTANT]
 > **Important Note Regarding the Attached Package (PackageData.enc):**
 > - **The attached package (PackageData.enc) contains the Arabic voice-over (audio dubbing) files and is intended for Arab users only.**
-> - **It is completely independent of the program — you can install and use ZH Arabic Suite normally without downloading or including PackageData.enc.**
+> - **It is completely independent of the application — you can install and use ZH Arabic Suite normally without downloading or including PackageData.enc.**
 > - *(If you wish to install the Arabic voice-over pack, simply place PackageData.enc in the same folder next to ZHArabicSuite_Setup_v1.0.1.exe before running the installer.)*
 
 ---
