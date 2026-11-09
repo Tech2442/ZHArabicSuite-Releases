@@ -9,8 +9,14 @@
 
 ---
 
-## 🚀 التحميل المباشر (Direct Download)
-📥 [**اضغط هنا لتحميل أحدث إصدار: ZHArabicSuiteCenter_Setup_v1.0.1.exe**](https://github.com/mido4321/ZHArabicSuiteCenter-Releases/releases/download/v1.0.1/ZHArabicSuiteCenter_Setup_v1.0.1.exe)
+## 🚀 التحميل وطريقة التثبيت (Download & Installation)
+
+للحصول على تجربة التعريب والدبلجة الكاملة، قم بتحميل **الملفين التاليين وضعهما معاً في نفس المجلد**:
+
+1. 📥 [**تحميل ملف التثبيت الموحد: ZHArabicSuiteCenter_Setup_v1.0.1.exe**](https://github.com/mido4321/ZHArabicSuiteCenter-Releases/releases/download/v1.0.1/ZHArabicSuiteCenter_Setup_v1.0.1.exe) (123 MB)
+2. 📦 [**تحميل حزمة التعريب والدبلجة: PackageData.enc**](https://github.com/mido4321/ZHArabicSuiteCenter-Releases/releases/download/v1.0.1/PackageData.enc) (543 MB)
+
+> 💡 **ملاحظة هامة:** تأكد من وجود ملف PackageData.enc في **نفس المجلد** بجانب ملف ZHArabicSuiteCenter_Setup_v1.0.1.exe عند التثبيت ليتم نسخ أصوات الدبلجة العربية تلقائياً.
 
 ---
 
