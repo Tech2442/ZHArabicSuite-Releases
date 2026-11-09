@@ -1,4 +1,4 @@
-# 🎖️ ZH Arabic Suite — Complete Launcher, Tactical Chat & Localization Suite
+﻿# 🎖️ ZH Arabic Suite — Complete Launcher, Tactical Chat & Localization Suite
 
 [![Latest Release](https://img.shields.io/github/v/release/Tech2442/ZHArabicSuite-Releases?color=00FF66&label=Latest%20Version&style=for-the-badge)](https://github.com/Tech2442/ZHArabicSuite-Releases/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-blue?style=for-the-badge)](https://github.com/Tech2442/ZHArabicSuite-Releases/releases/latest)
@@ -8,7 +8,7 @@
 
 The all-in-one tactical launcher, in-game chat suite, diagnostics center, and localization platform for **Command & Conquer: Generals – Zero Hour**, engineered for seamless compatibility with **Generals Online**.
 
-![ZH Arabic Suite Preview](2026-11-09_16-31-04.png)
+![ZH Arabic Suite Preview](2026-11-09_16-47-26.png)
 
 ---
 
@@ -50,3 +50,4 @@ The all-in-one tactical launcher, in-game chat suite, diagnostics center, and lo
 ## 📞 Community & Official Channels
 - 📺 **Official YouTube Channel:** [Tech2442 on YouTube](https://www.youtube.com/tech2442)
 - ✈️ **Official Telegram Channel:** [Tech2442 on Telegram](https://t.me/Tech2442)
+
