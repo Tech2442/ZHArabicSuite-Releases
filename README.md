@@ -8,7 +8,7 @@
 
 **ZH Arabic Suite** is a full-featured **alternative launcher for Generals Online**, combining a modern tactical game launcher, real-time in-game chat suite, smart health diagnostics, and optional localization tools for **Command & Conquer: Generals – Zero Hour**.
 
-![ZH Arabic Suite Preview](2026-11-09_16-47-26.png)
+![ZH Arabic Suite Preview](2026-11-09_21-00-33.png)
 
 ---
 
