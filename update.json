@@ -1,6 +1,6 @@
-{
-    "version": "1.0.1",
-    "url": "https://github.com/mido4321/ZHArabicSuite-Releases/releases/download/v1.0.1/ZHArabicSuite_Setup_v1.0.1.exe",
-    "sha256": "33219E8329E231109285549C99943A6144F210424D958E27AB4DA9901E772F78",
-    "notes": "Version 1.0.1:\n• Modern In-Game Chat Interface with live Push-to-Talk Voice Typing.\n• Instant AI Translation supporting world languages, quick tactical phrases, and emoticons.\n• Full Generals Online integration and Smart Health Diagnostics to prevent online mismatch errors.\n• Note: The attached voice package (PackageData.enc) contains Arabic audio dubbing intended only for Arab users. It is independent of the program, and you can use ZH Arabic Suite without it."
+﻿{
+    "version":  "1.0.1",
+    "url":  "https://github.com/Tech2442/ZHArabicSuite-Releases/releases/download/v1.0.1/ZHArabicSuite_Setup_v1.0.1.exe",
+    "sha256":  "112E9AEAC55635BE4B90521A94E43447997EF82D0D21395BADD8251D62AB0F74",
+    "notes":  "Version 1.0.1:\n• Modern In-Game Chat Interface with live Push-to-Talk Voice Typing.\n• Instant AI Translation supporting world languages, quick tactical phrases, and emoticons.\n• Full Generals Online integration and Smart Health Diagnostics to prevent online mismatch errors.\n• Note: The attached voice package (PackageData.enc) contains Arabic audio dubbing intended only for Arab users. It is independent of the program, and you can use ZH Arabic Suite without it."
 }
