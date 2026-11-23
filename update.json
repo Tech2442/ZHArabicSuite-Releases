@@ -1,6 +1,6 @@
 {
-    "notes":  "يتوفر تحديث جديد 1.0.4 - إصلاحات أمنية وإضافة قسم الإستعراض العسكري",
-    "url":  null,
     "version":  "1.0.4",
-    "sha256":  "a98958612808b1211a00ad013763a34840dd9e826c1e5750949bdb3ad9b1898d"
+    "url":  "https://github.com/Tech2442/ZHArabicSuite-Releases/releases/download/v1.0.4/ZHArabicSuite_Setup_v1.0.4.exe",
+    "sha256":  "a98958612808b1211a00ad013763a34840dd9e826c1e5750949bdb3ad9b1898d",
+    "notes":  "يتوفر تحديث جديد 1.0.4 - إصلاحات أمنية وإضافة قسم الإستعراض العسكري"
 }
