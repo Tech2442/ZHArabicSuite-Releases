@@ -1,7 +1,7 @@
 ﻿{
   "version": "1.0.6",
   "url": "https://github.com/Tech2442/ZHArabicSuite-Releases/releases/download/v1.0.6/ZHGlobalSuite_Setup_v1.0.6.exe",
-  "sha256": "39cee05dd671ca49a48b51c8e7e45bbe9e1734d7ca140c4c634a8a15aea09971",
+  "sha256": "e422281c901963d89a01e0bc3fbbe142c568b5668d184fb4a2f20e78028a44aa",
   "notes": "ZH Global Suite v1.0.6",
   "packages": {
     "controlbar": {
