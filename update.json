@@ -1,8 +1,8 @@
 ﻿{
-  "version": "1.0.5",
-  "url": "https://github.com/Tech2442/ZHArabicSuite-Releases/releases/download/v1.0.5/ZHGlobalSuite_Setup_v1.0.5.exe",
-  "sha256": "2fba22e07e9a2cef77dd3277c330cf86dd21912b2ef15331955e4b49f29ee732",
-  "notes": "ZH Global Suite v1.0.5",
+  "version": "1.0.6",
+  "url": "https://github.com/Tech2442/ZHArabicSuite-Releases/releases/download/v1.0.6/ZHGlobalSuite_Setup_v1.0.6.exe",
+  "sha256": "3048f225b042c07a77dfa7c7a92343b634718bbd3d9f99e0c2c0f1b84235c316",
+  "notes": "ZH Global Suite v1.0.6",
   "packages": {
     "controlbar": {
       "version": "1.0.0",
@@ -13,12 +13,12 @@
       "notes": "Control Bar custom presets package"
     },
     "exclusive_mod": {
-      "version": "1.0.1",
-      "url": "https://github.com/Tech2442/ZHArabicSuite-Releases/releases/download/v1.0.5/Mod_Parade.enc",
-      "sha256": "e1f3e83534e9ebc8dcea243fd6ae478e763c68037a406e651822da5232fa2748",
-      "size": 61154144,
+      "version": "1.0.6",
+      "url": "https://github.com/Tech2442/ZHArabicSuite-Releases/releases/download/v1.0.6/Mod_Parade.enc",
+      "sha256": "8f13ce3e9a79b77ebe92a6b2236438d4c02acce98af64b5c79ade5c49118a196",
+      "size": 61076416,
       "mandatoryForAll": false,
-      "notes": "Exclusive Parade & Formation mod package"
+      "notes": "Exclusive Parade & Formation mod package (v1.0.6 required update)"
     },
     "genpatcher": {
       "version": "1.0.0",
